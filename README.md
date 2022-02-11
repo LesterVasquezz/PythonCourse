@@ -1,6 +1,6 @@
-# Python Course 
+# Python Course 🐍
 
-## Contenido 
+## Contenido 🛠️
 
 - [Kata 0](Kata0.ipynb)
   - Primer acercamiento a Notebooks de Jupyter con Python.
