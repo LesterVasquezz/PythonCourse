@@ -25,6 +25,19 @@
 - [Kata 6](Kata6.ipynb)
   - Creación de listas 
     - Métodos `.append()`, `.index()`
-  - Entrada de datos desde la terminal (del usuario)
+  - Entrada de datos desde la terminal
+- [Kata 7](Kata7.ipynb)
+  - Ciclo `for`
+  - Ciclo `while`
+- [Kata 8](Kata8.ipynb)
+  - Creación de diccionarios
+    - Métodos `values()`, `keys()`
+- [Kata 9](Kata9.ipynb)
+  - Uso de funciones en Python
+    - Argumentos con palabra clave
+    - Cantidad de argumentos variables
+- [Kata 10](Kata10.ipynb)
+  - Manejo de excepciones
+    - Bloques `try` y `except`
 
 El materia fue desarrollado durante el Curso Propedéutico de Python para Launch X - Innovacción Virtual. 
